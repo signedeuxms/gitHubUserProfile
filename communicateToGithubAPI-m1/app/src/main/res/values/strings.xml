@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">communicateToGithubAPI</string>
+    <!--<string name="app_name">GithubProfile</string> -->
+    <string name="error_message">La recherche a echoue</string>
+    <string name="user_name_hint">Entrez le nom de l\'utilisateur</string>
+</resources>
